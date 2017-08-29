@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fac96727a4f3cf84f875880af0f7e51f
+timeCreated: 1503925400
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Subway Novella
+  fontNames:
+  - Subway Novella
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 158ea10a85db290478aa0f563732758a, type: 3}
+  m_Name: BasicFlankComponent
+  m_EditorClassIdentifier: 
+  Image: {fileID: 0}
+  SmallImage: {fileID: 0}
+  ComponentName: "Cheap As Shit\xA9 Rudders"
+  ComponentDesc: 
+  Flank_Fail_Message: You failed to flank!
+  Flank_Succeed_Message: You succeeded in flanking!
+  Flank_Pointless_Message: You are already flanked.
